@@ -1,4 +1,6 @@
-# Personal Wallpaper
+# Aaron Paper
+
+Customized wallpaper 
 
 - [ ] Home
 - [ ] Geolocation & Weather
