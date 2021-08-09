@@ -1,4 +1,4 @@
-# vanillaJS-momontom
+# Personal Wallpaper
 
 - [ ] Home
 - [ ] Geolocation & Weather
