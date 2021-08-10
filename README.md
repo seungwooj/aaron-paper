@@ -1,10 +1,6 @@
 # Aaron Paper
 
-<<<<<<< HEAD
-Customized wallpaper 
-=======
 Customized wallpaper
->>>>>>> gh-pages
 
 - [ ] Home
 - [ ] Geolocation & Weather
