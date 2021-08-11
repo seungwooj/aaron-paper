@@ -8,7 +8,7 @@ function getWeatherAndCity(lat, lon) {
 		.then((data) => {
 			const weather = document.querySelector("#weather span:first-child");
 			const city = document.querySelector("#weather span:last-child");
-			weather.innerText = `${data.weather[0].main} Celcius @ ${data.main.temp}`;
+			weather.innerText = `${data.weather[0].main} / ${data.main.temp} Celcius @`;
 			city.innerText = data.name;
 		});
 }
