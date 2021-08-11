@@ -2,8 +2,8 @@
 
 Customized wallpaper
 
-- [ ] Home
-- [ ] Geolocation & Weather
-- [ ] Time
-- [ ] ToDo list (main)
-- [ ] ToDo list (side)
+- [X] Home
+- [X] Geolocation & Weather
+- [X] Time
+- [X] ToDo list 
+
