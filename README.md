@@ -5,6 +5,7 @@ Customized wallpaper
 
 - [X] Home
 - [X] Geolocation & Weather
+- [X] Wallpaper 
 - [X] Time
 - [X] ToDo list 
 
